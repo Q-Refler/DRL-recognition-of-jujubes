@@ -1,3 +1,3 @@
-# Drl recognition of jujubes 
+# DRL recognition of jujubes 
 - Using morphological image processing for segmentation 
-- Using a pre-trained DenseNet architecture and transfer learning to recognize jujube varieties
+- Using a pre-trained DenseNet architecture and transfer learning to recognize jujube defect types
